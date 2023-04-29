@@ -23,8 +23,6 @@
         <Button Content="Сброс" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="430,126,0,0" Click="Button_Click"/>
         <Button Content="Поиск" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="430,101,0,0" Click="Button_Click_1"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Больще 20к" VerticalAlignment="Top" Margin="430,80,0,0"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Товар" VerticalAlignment="Top" Margin="430,31,0,0"/>
-        <Button Content="Поиск" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="430,55,0,0" Click="Button_Click_3"/>
 
     </Grid>
 </Window>

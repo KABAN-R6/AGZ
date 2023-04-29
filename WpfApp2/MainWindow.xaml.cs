@@ -68,8 +68,8 @@ namespace WpfApp2
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            var product1 = products.Where(u => u.Name(tx1.Text)).ToList();
-            list1.ItemsSource = product1;
+           
+           
         }
     }
 }
