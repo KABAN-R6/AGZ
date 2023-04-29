@@ -58,7 +58,8 @@ namespace WpfApp2
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-           
+            var product1 = products.Where(u => u.Price > 20000).ToList();
+            list1.ItemsSource = product1;
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
