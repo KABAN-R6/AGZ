@@ -23,6 +23,9 @@
         <Button Content="Сброс" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="430,126,0,0" Click="Button_Click"/>
         <Button Content="Поиск" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="430,101,0,0" Click="Button_Click_1"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Больще 20к" VerticalAlignment="Top" Margin="430,80,0,0"/>
+        <TextBox x:Name="tx1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="430,25,0,0"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="430,55,0,0" Click="Button_Click_4"/>
+        <TextBox x:Name="tx2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="585,25,0,0"/>
 
     </Grid>
 </Window>
